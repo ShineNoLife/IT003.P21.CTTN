@@ -9,4 +9,6 @@ This benchmark can be configurated to change some variables (number of tests, si
 
 to run the basics, use the command:
 
+```shell
 python run_benchmarks.py --n_files=10 --n_size=200000
+```
